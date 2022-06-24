@@ -1,1 +1,1 @@
-# FRI
+This repository contains the R script and the data for the paper published in Food Research International: Multilevel modeling in food science. A case study on heat-induced ascorbic acid degradation kinetics by M. van Boekel and S. Roux
